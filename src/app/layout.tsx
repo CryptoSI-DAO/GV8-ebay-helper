@@ -13,13 +13,13 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "SnapList — AI eBay Listing Creator",
+  title: "GV8 eBay Helper — AI Listing Creator",
   description: "Snap a photo, AI creates your eBay listing. Identify, price, and list items in seconds.",
   manifest: "/manifest.json",
   appleWebApp: {
     capable: true,
     statusBarStyle: "black-translucent",
-    title: "SnapList",
+    title: "GV8 eBay Helper",
   },
 };
 

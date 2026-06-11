@@ -1,7 +1,7 @@
 {
-  "name": "SnapList",
-  "short_name": "SnapList",
-  "description": "AI eBay Listing Creator — snap a photo, AI creates your listing",
+  "name": "GV8 eBay Helper",
+  "short_name": "GV8 eBay",
+  "description": "AI eBay Listing Creator — snap a photo, AI writes your listing",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#111111",

@@ -86,7 +86,7 @@ export default function Home() {
         <div className="max-w-3xl mx-auto px-4 py-3 flex items-center justify-between">
           <div className="flex items-center gap-3">
             <h1 className="text-xl font-bold">
-              <span className="text-[#e7f900]">Snap</span>List
+              <span className="text-[#e7f900]">GV8</span> eBay Helper
             </h1>
             <span className="text-xs text-zinc-500 hidden sm:inline">AI eBay Listing Creator</span>
           </div>
@@ -108,7 +108,7 @@ export default function Home() {
           <div className="space-y-6">
             <div className="text-center py-8">
               <h2 className="text-3xl sm:text-4xl font-bold mb-3">
-                Snap it. <span className="text-[#e7f900]">List it.</span>
+                GV8 <span className="text-[#e7f900]">eBay Helper</span>
               </h2>
               <p className="text-zinc-400 text-lg max-w-md mx-auto">
                 Upload a photo and AI will identify your item, write the listing, and suggest a price.
@@ -159,7 +159,7 @@ export default function Home() {
       <footer className="border-t border-zinc-800 mt-12">
         <div className="max-w-3xl mx-auto px-4 py-4 text-center">
           <p className="text-xs text-zinc-600">
-            SnapList v1.0 — AI-powered eBay listing creator • eBay posting coming in v1.1
+            GV8 eBay Helper v1.0 — AI-powered eBay listing creator • Direct posting coming in v1.1
           </p>
         </div>
       </footer>
