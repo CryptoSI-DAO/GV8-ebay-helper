@@ -17,6 +17,7 @@ export function middleware(request: NextRequest) {
   if (
     pathname.startsWith('/_next') ||
     pathname.startsWith('/icon-') ||
+    pathname === '/sw.js' ||
     pathname.endsWith('.png') ||
     pathname.endsWith('.svg') ||
     pathname.endsWith('.ico') ||
